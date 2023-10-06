@@ -12,5 +12,5 @@
 	- Everdrive Pro
 	- Kega Fusion
 	
- Unknown if it works on hardware without a flashcart. May or may not due to mirroring trick to satisfy TMSS
+ Unknown if it works on hardware without a flashcart. May or may not due to mirroring trick to satisfy TMSS.
  Special thanks to Jorge and Tails8521 for the incredible help and tricks that made this possible!
